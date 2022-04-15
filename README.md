@@ -2,6 +2,6 @@
 
 Simple Cashier Program in C
 
-1. Input Code of product
-2. Then type q if you finish
-3. Program will count total product that you input
+* Input Code of product
+* Then type q if you finish
+* Program will count total product that you input
